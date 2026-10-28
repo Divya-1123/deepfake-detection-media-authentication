@@ -1,0 +1,5 @@
+# Only needed for training / evaluation / tests (on top of requirements.txt)
+scikit-learn>=1.5
+matplotlib>=3.9
+pytest>=8
+httpx>=0.27

@@ -1,0 +1,27 @@
+venv/
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+node_modules/
+dist/
+.env
+backend/.env
+frontend/.env
+uploads/*
+!uploads/.gitkeep
+!models/.gitkeep
+data/
+.DS_Store
+
+# Generated evaluation results
+results/
+
+# Trained model weights
+*.pt
+*.pth
+*.onnx
+*.h5
+*.keras
+*.safetensors
+*.caffemodel

@@ -1,0 +1,8 @@
+fastapi>=0.115,<1
+uvicorn[standard]>=0.34
+python-multipart>=0.0.20
+opencv-python-headless>=4.10
+Pillow>=11.1
+numpy>=2.0
+torch>=2.5
+timm>=1.0
